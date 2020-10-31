@@ -42,11 +42,8 @@ namespace ServerdanClient_GianAlfaricha_026
             // Console.ReadLine();
             Koordinat objk = new Koordinat();
 
+            
 
-            label3.Text = "Hasil Penjumlahan :  " + hasilTambah + Environment.NewLine;
-            label4.Text = "Hasil Pengurangah :  " + hasilKurang + Environment.NewLine;
-            label5.Text = "Hasil Perkalian :  " + hasilKali + Environment.NewLine;
-            label6.Text = "Hasil Pembagian :  " + hasilBagi + Environment.NewLine;
 
         }
     }
